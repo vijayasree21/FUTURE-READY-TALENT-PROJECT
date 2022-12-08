@@ -19,20 +19,14 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 
+ ![Fitness club Website Template _ Home __ W3layouts - Google Chrome 08-12-2022 19_27_28](https://user-images.githubusercontent.com/117972162/206465726-ec55e73c-5cd9-464d-a695-e81e6997c6ce.png)!
+ [Fitness club Website Template _ Home __ W3layouts - Google Chrome 08-12-2022 19_27_39](https://user-images.githubusercontent.com/117972162/206465816-b03e8de7-8172-4460-836c-2e82d3e3eb63.png)
+![Fitness club Website Template _ Home __ W3layouts - Google Chrome 08-12-2022 19_27_16](https://user-images.githubusercontent.com/117972162/206465693-5ee145db-2438-49e5-bb20-d0f0df0fd824.png)
 
-
-   
-
-### About Us -
-
-
-
-
-### Privacy policy -
-
-
-
+   ![Fitness club Website Template _ Home __ W3layouts - Google Chrome 08-12-2022 19_28_21](https://user-images.githubusercontent.com/117972162/206465949-bb38f12b-825e-409f-97b3-de4c824e6b45.png)
+![Fitness club Website Template _ Home __ W3layouts - Google Chrome 08-12-2022 19_28_49](https://user-images.githubusercontent.com/117972162/206466004-49113c82-545e-4189-afc4-b938026d8fee.png)
+STATIC WEB SCREENSHOT:
+![fitnessclub - Microsoft Azure - Google Chrome 08-12-2022 19_30_14](https://user-images.githubusercontent.com/117972162/206466186-b7a80087-ba93-44c6-adfd-995620d9fc80.png)
 
 
 ## Tech Stack 💻
