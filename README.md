@@ -7,6 +7,8 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://vijayasree21.github.io/FUTURE-READY-TALENT-PROJECT/
+**static web app demo link** - 
+**project demo video url** - 
 
 ## Features and Functionalities 😃
 
